@@ -16,6 +16,6 @@ I tried to make this script as easy to understand as possible so it could be ada
 Install the necessary libraries:
 
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
     
